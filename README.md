@@ -22,7 +22,7 @@ A frontend-only grocery delivery website inspired by Blinkit, featuring:
 - LocalStorage-based cart and order functionality
 - Fully responsive layout using Tailwind CSS
 
-### 🎨 [Zeno UI (Figma Design)](https://github.com/your-figma-repo)
+### 🎨 [Zeno UI (Figma Design)](https://jocular-medovik-bb39b3.netlify.app/)
 A clean and modern UI design project made with Figma. The goal was to learn visual design and build user-centric interfaces with good UX practices.
 
 ---
