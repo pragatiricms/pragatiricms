@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate and dedicated developer with a strong fou
 
 ## 💼 Projects
 
-### 🛒 [Grocery Shopping Website (Blinkit Clone)](https://github.com/your-repo-link)
+### 🛒 [Grocery Shopping Website (Blinkit Clone)](https://github.com/pragatiricms/Qlith--Blikint-Clone-main.git)
 A frontend-only grocery delivery website inspired by Blinkit, featuring:
 - Product listings
 - LocalStorage-based cart and order functionality
